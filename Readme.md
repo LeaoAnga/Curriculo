@@ -6,4 +6,4 @@ Navegue pelo currículo para conhecer mais sobre meu perfil profissional, visual
 
 Acesse a página completa do currículo pelo GitHub Pages e descubra como posso contribuir com o seu projeto ou empresa!
 
-[Visite o currículo online](https://leaoanga.github.io/curriculo)
+[Visite o currículo online](https://leaoanga.github.io/Curriculo)
